@@ -11,7 +11,7 @@ Captures request traces based on policy rules (slow requests and/or status code 
 npm install dts-tracer
 ```
 
-## Basic Usage
+## Basic Usages----
 
 ```ts
 import express from "express";
